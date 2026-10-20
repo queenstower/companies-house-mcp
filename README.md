@@ -1,3 +1,5 @@
+> **Archived (October 2026).** This repository is retired and no longer maintained by Queen's Tower Advisory. Companies House lookups are now provided by the DealsPartner backend (`/api/companies-house/...`) and exposed to LLM clients through the QTA MCP connector in the `queenstower/qta-api` repository (`mcp/`). Do not deploy this server.
+
 # Companies House MCP Server
 
 ![Companies House MCP Server - Demo](https://github.com/user-attachments/assets/652267a6-9378-4edb-92fb-6be1b90122ec)
